@@ -1,0 +1,34 @@
+{
+  "name": "koa_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vnho-Meng/koa_stydy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vnho-Meng/koa_stydy/issues"
+  },
+  "homepage": "https://github.com/Vnho-Meng/koa_stydy#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "basic-auth": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "koa-static": "^5.0.0",
+    "lodash": "^4.17.21",
+    "mysql2": "^2.3.3",
+    "npm-check": "^5.9.2",
+    "require-directory": "^2.1.1",
+    "sequelize": "^6.14.0",
+    "validator": "^13.7.0"
+  }
+}
